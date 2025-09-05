@@ -49,13 +49,18 @@
 
 // Introduction
 // #include "chapter1/chapter.typ"
+
 // Zeolites
 // #include "chapter2/chapter.typ"
+
 // Rounded truncated tetrahedra
 // #include "chapter3/chapter.typ"
+
 // Tetrahedra and octahedra
 #include "chapter4/chapter.typ"
+
 // Phase diagram of Te and Oc
 // #include "chapter5/chapter.typ"
+
 // Egg-shaped supraparticles
 // #include "chapter6/chapter.typ"
